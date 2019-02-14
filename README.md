@@ -8,18 +8,18 @@ Siguiendo la metodología DCU y teniendo en cuenta que la aplicación web "Club 
 
 ## Perfiles de usuario
 Los principales perfiles en los que podemos clasificar usuarios potenciales de la aplicación son:
-* Estudiantes
- - Preescolar
- - Primaria
- - Secundaria
- - Bachiller
- - Universidad
-* Profesores
- - Preescolar
- - Primaria
- - Secundaria
- - Bachiller
- - Universidad
+* Estudiantes  
+    - Preescolar
+    - Primaria 
+    - Secundaria  
+    - Bachiller  
+    - Universidad
+* Profesores  
+    - Preescolar  
+    - Primaria  
+    - Secundaria  
+    - Bachiller  
+    - Universidad
 * Jubilados
 * Amantes de la lectura
 * Gente que está consultando algo
