@@ -2,9 +2,9 @@
 
 Siguiendo la metodología DCU y teniendo en cuenta que la aplicación web "Club de lectura" es de propósito general, la cantidad de contextos aplicables es relativamente grande, así que limitaremos la recogida de datos a 3 métodos efectivos:
 
-Tormenta de ideas: audiovisual.
-Grupo focal con un especialista en usabilidad como organizador y varios usuarios finales.
-Imágenes del "entorno de trabajo" (entorno de disfrute) de varios usuarios finales.
+* Tormenta de ideas: audiovisual.
+* Grupo focal con un especialista en usabilidad como organizador y varios usuarios finales.
+* Imágenes del "entorno de trabajo" (entorno de disfrute) de varios usuarios finales.
 
 Los perfiles de usuario "descubiertos" serían:
 * Estudiantes
